@@ -1,1 +1,1 @@
-This is a file in GitNewBranch
+This file is only in the new branch
