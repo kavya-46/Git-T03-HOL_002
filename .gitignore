@@ -1,2 +1,4 @@
 *.log
 log/
+*.swp
+hello_*.xml
